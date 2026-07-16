@@ -1,0 +1,21 @@
+Feature,Importance
+numeric__Street,0.11530393
+numeric__Traffic_Signal,0.0922942
+county__County_Alameda,0.08175523
+county__County_Los Angeles,0.060714763
+numeric__Stop,0.049661823
+county__County_San Francisco,0.04222619
+county__County_Solano,0.033668146
+numeric__Zipcode,0.033533726
+numeric__Start_Lng,0.027849114
+numeric__Start_Lat,0.02555197
+numeric__Crossing,0.024993103
+county__County_Ventura,0.022214923
+numeric__Airport_Code,0.022118146
+county__County_Riverside,0.019978935
+county__County_Stanislaus,0.019156542
+county__County_Santa Clara,0.018678674
+county__County_Napa,0.018504377
+county__County_San Bernardino,0.016450739
+numeric__Month,0.015851418
+numeric__City,0.014124585

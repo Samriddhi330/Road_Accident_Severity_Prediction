@@ -27,11 +27,16 @@ print("="*60)
 print("\nLoading model...")
 
 model = joblib.load("models/binary_xgboost.joblib")
-X_test = joblib.load("models/X_test.joblib")
+
+print("Loading test dataset...")
+
+test_df = pd.read_csv("data/processed/test_data_final.csv")
+
+# Create X_test exactly like in training
+X_test = test_df.drop(columns=["Severity", "End_Time"])
 
 print("Model loaded successfully.")
-print("Test data loaded successfully.")
-
+print("Test dataset loaded successfully.")
 # -------------------------------------------------------
 # Extract pipeline components
 # -------------------------------------------------------
@@ -436,5 +441,6 @@ reports/
       ├── weather_analysis.png
       └── hotspot_cities.png
 """)
+
 
 

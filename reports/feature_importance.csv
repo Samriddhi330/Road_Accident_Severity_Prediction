@@ -1,0 +1,103 @@
+Feature,Importance
+numeric__Street,0.11530393
+numeric__Traffic_Signal,0.0922942
+county__County_Alameda,0.08175523
+county__County_Los Angeles,0.060714763
+numeric__Stop,0.049661823
+county__County_San Francisco,0.04222619
+county__County_Solano,0.033668146
+numeric__Zipcode,0.033533726
+numeric__Start_Lng,0.027849114
+numeric__Start_Lat,0.02555197
+numeric__Crossing,0.024993103
+county__County_Ventura,0.022214923
+numeric__Airport_Code,0.022118146
+county__County_Riverside,0.019978935
+county__County_Stanislaus,0.019156542
+county__County_Santa Clara,0.018678674
+county__County_Napa,0.018504377
+county__County_San Bernardino,0.016450739
+numeric__Month,0.015851418
+numeric__City,0.014124585
+numeric__Junction,0.01407761
+county__County_Monterey,0.01359296
+numeric__Distance(mi),0.012894247
+numeric__Railway,0.012832929
+county__County_Placer,0.012811436
+county__County_Orange,0.012410679
+county__County_Santa Cruz,0.012225586
+county__County_Sonoma,0.01175209
+county__County_San Mateo,0.010648123
+county__County_Franklin,0.010545356
+county__County_El Dorado,0.0102148885
+numeric__Station,0.009863674
+county__County_Sacramento,0.009214971
+county__County_Contra Costa,0.009171261
+county__County_San Joaquin,0.009140867
+numeric__Amenity,0.008930455
+county__County_Yolo,0.008776383
+county__County_Fresno,0.008168473
+county__County_San Diego,0.0055691265
+county__County_Santa Barbara,0.005249553
+county__County_Montgomery,0.0049034976
+county__County_Calaveras,0.004828396
+county__County_Marin,0.0034347542
+numeric__DayOfWeek,0.0028069855
+numeric__Hour,0.0027748076
+numeric__Visibility(mi),0.0026096911
+numeric__Pressure(in),0.0024912183
+county__County_San Benito,0.0024216836
+numeric__Temperature(F),0.0023483739
+numeric__Humidity(%),0.0022164176
+numeric__Weather_Condition,0.0020190375
+numeric__Wind_Speed(mph),0.0018996465
+numeric__Wind_Direction,0.0016627267
+county__County_Glenn,0.00084253534
+county__County_Butte,1.9041063e-05
+county__County_Clermont,0.0
+county__County_Colusa,0.0
+county__County_Delaware,0.0
+county__County_Cuyahoga,0.0
+county__County_Clinton,0.0
+county__County_Amador,0.0
+county__County_Allen,0.0
+county__County_Adams,0.0
+county__County_Clark,0.0
+county__County_Lorain,0.0
+county__County_Erie,0.0
+county__County_Fayette,0.0
+county__County_Fairfield,0.0
+county__County_Gallia,0.0
+county__County_Greene,0.0
+county__County_Nevada,0.0
+county__County_Muskingum,0.0
+county__County_Merced,0.0
+county__County_Miami,0.0
+county__County_Mendocino,0.0
+county__County_Licking,0.0
+county__County_Madison,0.0
+county__County_Medina,0.0
+county__County_Lake,0.0
+county__County_Hancock,0.0
+county__County_Richland,0.0
+county__County_Ross,0.0
+county__County_Pickaway,0.0
+county__County_Summit,0.0
+county__County_Sutter,0.0
+county__County_Tuolumne,0.0
+county__County_Yuba,0.0
+county__County_Warren,0.0
+county__County_Wayne,0.0
+county__County_Wood,0.0
+county__County_Sierra,0.0
+numeric__Bump,0.0
+numeric__Give_Way,0.0
+numeric__Roundabout,0.0
+numeric__Turning_Loop,0.0
+numeric__Traffic_Calming,0.0
+numeric__No_Exit,0.0
+numeric__Timezone_US/Eastern,0.0
+numeric__Timezone_US/Pacific,0.0
+numeric__State_CA,0.0
+numeric__State_OH,0.0
+numeric__State_WV,0.0
