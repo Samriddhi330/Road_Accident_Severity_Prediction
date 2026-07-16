@@ -1,0 +1,10 @@
+Best Model Selection
+====================
+
+Selected model: Binary XGBoost
+Selection criterion: highest ROC-AUC
+ROC-AUC: 0.9687
+Accuracy: 0.9277
+F1-score: 0.9186
+
+Note: The tuned Decision Tree achieved the highest Accuracy and F1-score, while XGBoost achieved the highest ROC-AUC. XGBoost is selected as the overall best model because ROC-AUC evaluates discrimination across all classification thresholds.

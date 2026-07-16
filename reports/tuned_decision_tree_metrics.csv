@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1-score,ROC-AUC,Best Parameters
+Tuned Binary Decision Tree,0.9308396259438916,0.9223236145114623,0.923659868494372,0.9229912578651372,0.9592432352694272,"{'decision_tree__max_depth': 18, 'decision_tree__min_samples_leaf': 5, 'decision_tree__min_samples_split': 20}"

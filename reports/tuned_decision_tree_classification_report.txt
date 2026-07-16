@@ -1,0 +1,8 @@
+                     precision    recall  f1-score   support
+
+ Low severity (1-2)       0.94      0.94      0.94     11024
+High severity (3-4)       0.92      0.92      0.92      8973
+
+           accuracy                           0.93     19997
+          macro avg       0.93      0.93      0.93     19997
+       weighted avg       0.93      0.93      0.93     19997
