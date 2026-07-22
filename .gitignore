@@ -1,6 +1,6 @@
 # Ignore huge raw data sources to prevent upload failures
 data/raw/US_Accidents_March23.csv
-data/raw/us_accidents_sample.csv
+
 
 
 
